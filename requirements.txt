@@ -1,0 +1,9 @@
+streamlit
+osmnx
+networkx
+folium
+scikit-learn
+geopandas
+shapely
+pyproj
+rtree
